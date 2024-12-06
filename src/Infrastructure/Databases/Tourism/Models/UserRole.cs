@@ -1,0 +1,7 @@
+namespace CleanMinimalApi.Infrastructure.Databases.Tourism.Models;
+
+public class UserRole
+{
+    public const string Admin = "Admin";
+    public const string User = "User";
+}
